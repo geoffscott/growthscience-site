@@ -4,9 +4,10 @@ title: "Growth Science"
 title_separator: "-"
 subtitle: "Executive Coaching & Advisory"
 name: "Geoff Scott"
-description: "Executive coaching and advisory services grounded in trust, culture, and human-centered leadership"
+description: "Executive coaching and advisory services grounded in trust, clarity, and human-centered leadership"
 url: "https://geoffscott.github.io"
 baseurl: "/growthscience-site"
+logo: "/assets/images/logo.svg"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -91,8 +92,8 @@ masthead:
 # Author Profile
 author:
   name: "Geoff Scott"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "CTO at OneEleven. Executive Coach. Builder."
+  avatar: "/assets/images/logo.svg"
+  bio: "Executive Coach & Strategic Advisor"
   location: "Hudson Valley, NY"
   links:
     - label: "LinkedIn"

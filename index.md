@@ -1,15 +1,19 @@
 ---
-layout: home
+layout: splash
 permalink: /
 title: "Growth Science"
-author_profile: false
+header:
+  overlay_image: /assets/images/hero-image.jpg
+  overlay_filter: "0.5"
+  actions:
+    - label: "Schedule a Call"
+      url: "https://calendly.com/geoffscott"
+excerpt: "Executive Coaching & Advisory Services"
 ---
 
-## Executive Coaching & Advisory Services
+## I help leaders build organizations grounded in clarity, trust, and intention.
 
-I help leaders and their organizations build cultures of trust, clarity, and sustainable growth.
-
-Whether you're navigating AI transformation, scaling operations, or rethinking your competitive strategy, my work is grounded in a simple insight: in an age where technology commoditizes, what remains defensible is **how you treat people**.
+Whether you're navigating AI transformation, scaling operations, or rethinking your competitive strategy—my work is grounded in a simple insight: **in an age where technology commoditizes, what remains defensible is how you treat people.**
 
 ---
 
@@ -30,7 +34,7 @@ Build systems and practices that make trust, accountability, and sustained perfo
 
 **I believe leadership is both an art and a practice.**
 
-The best organizations I've worked with aren't the ones with the perfect strategy or the smartest people. They're the ones where people trust each other enough to think clearly, take risks, and stay committed through the messy parts of real work.
+Through dialogue that helps you see yourself and your situation more clearly—so you can make choices that align with what actually matters to you. My work helps you become conscious of what's driving your decisions so you can lead and live with intention rather than by default.
 
 ### Three Principles
 
@@ -38,7 +42,7 @@ The best organizations I've worked with aren't the ones with the perfect strateg
 
 2. **Clarity Over Comfort** — The conversations that matter most are often uncomfortable. I help you have them.
 
-3. **Grounded in Reality** — Theory is useful. What matters is what actually works in your specific context.
+3. **Grounded in Reality** — Theory is useful. What matters is what actually works in your specific context with your specific people.
 
 ---
 
@@ -46,7 +50,7 @@ The best organizations I've worked with aren't the ones with the perfect strateg
 
 As AI becomes universally available, technical capability is commoditizing. The competitive advantage that lasts is increasingly about organizational culture—how you treat people, how you make decisions together, what you believe is worth doing.
 
-**Explore thinking on culture, strategy, and leadership in the AI era.**
+**Explore thinking on strategy, culture, and leadership in the AI era.**
 
 [The Kindness Flywheel](/kindness-flywheel/)
 
@@ -58,8 +62,10 @@ I work with:
 - **Founders and CEOs** clarifying strategy and building high-trust leadership teams
 - **Executives** navigating organizational change and scaling challenges
 - **Technical leaders** integrating deep technical judgment with people leadership
-- **Boards and advisors** thinking through strategic questions
+- **Boards and advisors** thinking through strategic questions and competitive positioning
 
 ### Let's Talk
 
-The first step is a conversation. [Schedule a time](https://calendly.com/geoffscott)
+The first step is a conversation. 
+
+[Schedule a time](https://calendly.com/geoffscott)
