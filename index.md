@@ -8,7 +8,6 @@ header:
   actions:
     - label: "Schedule a Call"
       url: "https://calendly.com/geoffscott"
-excerpt: "Executive Coaching & Advisory Services"
 ---
 
 ## I help leaders build organizations grounded in clarity, trust, and intention.

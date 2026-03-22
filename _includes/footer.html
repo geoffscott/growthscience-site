@@ -1,0 +1,13 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}"></i> {{ link.label }}</a></li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">
+  © 2026 Growth Science LLC. All rights reserved.
+</div>

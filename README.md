@@ -1,13 +1,14 @@
 # Growth Science Site
 
-Executive coaching and advisory services grounded in trust, culture, and human-centered leadership.
+Executive coaching and advisory services grounded in trust, clarity, and human-centered leadership.
 
 ## Site Structure
 
-- **Homepage** (`index.md`) — Main entry point, overview of services and approach
+- **Homepage** (`index.md`) — Main entry point with hero image and service overview
 - **About** (`_pages/about.md`) — Background and philosophy
 - **Kindness Flywheel** (`_pages/kindness-flywheel.md`) — Content series on culture, strategy, and leadership in the AI era
 - **Posts** (`_posts/`) — Articles and thinking pieces
+- **Navigation** (`_data/navigation.yml`) — Main menu configuration
 
 ## Building Locally
 
@@ -22,13 +23,19 @@ Visit `http://localhost:4000` to view the site.
 
 Built with [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
-Customization lives in:
+Customization:
 - `_config.yml` — Site configuration
-- `assets/css/custom.css` — Custom styling
-- `_layouts/` — Custom layout overrides (if needed)
+- `_includes/head/custom.html` — Favicon and color variables
+- `_includes/footer.html` — Footer with copyright
+- `assets/` — Logo, favicon, hero image, and stylesheets
 
 ## Publishing
 
 Commit changes and push to `main` branch. GitHub Pages will automatically build and deploy.
 
-Domain: configured separately in GitHub Pages settings
+## Assets
+
+- `assets/images/logo.svg` — Site logo (dark)
+- `assets/images/logo-light.svg` — Alternate logo (light)
+- `assets/images/favicon.ico` — Browser tab icon
+- `assets/images/hero-image.jpg` — Homepage hero image

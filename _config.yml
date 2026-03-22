@@ -2,7 +2,6 @@
 locale: "en-US"
 title: "Growth Science"
 title_separator: "-"
-subtitle: "Executive Coaching & Advisory"
 name: "Geoff Scott"
 description: "Executive coaching and advisory services grounded in trust, clarity, and human-centered leadership"
 url: "https://geoffscott.github.io"
@@ -103,7 +102,7 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/geoffscott"
 
-# Footer Links
+# Footer
 footer:
   links:
     - label: "LinkedIn"
@@ -112,6 +111,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/geoffscott"
+
+# Copyright
+copyright: "© 2026 Growth Science LLC. All rights reserved."
 
 # Search
 search: true
