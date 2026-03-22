@@ -2,6 +2,7 @@
 locale: "en-US"
 title: "Growth Science"
 title_separator: "-"
+masthead_title: " "
 name: "Geoff Scott"
 description: "Executive coaching and advisory services grounded in trust, clarity, and human-centered leadership"
 url: "https://geoffscott.github.io"
