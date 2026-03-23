@@ -114,7 +114,10 @@ footer:
       url: "https://github.com/geoffscott"
 
 # Copyright
-copyright: "© 2026 Growth Science LLC. All rights reserved."
+copyright: "Growth Science LLC"
 
 # Search
 search: true
+
+atom_feed:
+  hide: true
