@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Growth Science"
+title: "Home"
 excerpt: "Executive Coaching & Advisory"
 header:
   overlay_image: /assets/images/hero-image.jpg
