@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /
-title: "The one thing AI can't commoditize is your culture."
-excerpt: "Executive coaching for leaders who know the real advantage is human."
+title: "The one thing AI can't commoditize is your culture"
+excerpt: "Coaching for leaders who understand that the real advantage is human"
 header:
   overlay_image: /assets/images/hero-image.jpg
   overlay_filter: "0.25"
